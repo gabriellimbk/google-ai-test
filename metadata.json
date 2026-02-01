@@ -1,0 +1,5 @@
+{
+  "name": "EquiliSolve - Solubility Equilibrium Explorer",
+  "description": "An interactive Grade 12 chemistry application for exploring solubility product constants (Ksp), the common ion effect, and precipitation through dynamic simulations and an AI-powered chemistry tutor.",
+  "requestFramePermissions": []
+}
